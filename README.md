@@ -34,6 +34,4 @@ The main goals of this project are to:
 
 ## Status
 
-🚧 Currently in progress.
-
 Right now, I’m focusing on understanding and cleaning the data before moving into SQL analysis, visualization, and machine learning.
